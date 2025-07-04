@@ -1,0 +1,6 @@
+openai
+python-dotenv
+pyttsx3
+SpeechRecognition
+PyAudio
+dateparser
